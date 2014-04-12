@@ -1,0 +1,24 @@
+{
+  "name": "defcon-ip-power-9255",
+  "version": "0.2.1",
+  "description": "Powers on or off mains devices via an IP Power 9255 device",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acuminous/defcon-ip-power-9255"
+  },
+  "author": "Stephen Cresswell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acuminous/defcon-ip-power-9255/issues"
+  },
+  "homepage": "https://github.com/acuminous/defcon-ip-power-9255",
+  "dependencies": {
+    "async": "^0.2.10",
+    "lodash": "^2.4.1",
+    "request": "^2.34.0"
+  }
+}
